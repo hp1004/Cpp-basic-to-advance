@@ -1,2 +1,2 @@
-# C-basic-to-advance
+# C++-basic-to-advance
 My c++ learning journey from printing "Hello World " to writing programs .....
